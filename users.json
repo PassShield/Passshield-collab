@@ -1,0 +1,48 @@
+[
+    {
+        "username": "Petras@",
+        "email": "percyguilhermekulyumba@gmail.com",
+        "password": "5cedc4bae5d1e396eb35129ac9f0b0307dc83853921a5b96429dbff063a0779e",
+        "security_question": "What is your mother's maiden name?",
+        "security_answer": "luisa",
+        "pin": "7bcbdcc5dc9a908e76dac3eb830c69fd93d8a23dde299f132ee80502b2ba1a60",
+        "passwords": [],
+        "reset_token": "RZM33LPeF4Gr0N22IVYp0rR7M4suYE2T"
+    },
+    {
+        "username": "Petras!",
+        "email": "fernadaguilhrmekulyumba@gmail.com",
+        "password": "$2b$12$4lZ897F3YWj6d7NqrWpcgOXXDNy4xZUMrTwkZAnYbEFCbJDjENtAm",
+        "security_question": "What is your mother's maiden name?",
+        "security_answer": "luisa",
+        "pin": "7bcbdcc5dc9a908e76dac3eb830c69fd93d8a23dde299f132ee80502b2ba1a60",
+        "passwords": []
+    },
+    {
+        "username": "Petras1",
+        "email": "angelakulyumba@gmail.com",
+        "password": "$2b$12$sbUAEqGRvJbndfjVwCmlo.01oIwSTdCNS1Lz4xkfqsieiMCQgb2CC",
+        "security_question": "What is your mother's maiden name?",
+        "security_answer": "petty",
+        "pin": "7bcbdcc5dc9a908e76dac3eb830c69fd93d8a23dde299f132ee80502b2ba1a60",
+        "passwords": []
+    },
+    {
+        "username": "manuel de sa jr",
+        "email": "manueldesajr089@gmail.com",
+        "password": "$2b$12$GEsaCW6jzy3KccCWn1j7MOAyYm03jNjIvykst6ZbieVwHQZ3I.P..",
+        "security_question": "What was your first pet's name?",
+        "security_answer": "Simba",
+        "pin": "7bcbdcc5dc9a908e76dac3eb830c69fd93d8a23dde299f132ee80502b2ba1a60",
+        "passwords": []
+    },
+    {
+        "username": "fernada@",
+        "email": "julianaguilhermekulyumba@gmail.com",
+        "password": "$2b$12$/63RR8h5EqPBltD98/kJN.LzSdO7AAemKqWkv9FCq4VFTGYV.r36y",
+        "security_question": "What is your mother's maiden name?",
+        "security_answer": "luisa",
+        "pin": "7bcbdcc5dc9a908e76dac3eb830c69fd93d8a23dde299f132ee80502b2ba1a60",
+        "passwords": []
+    }
+]
